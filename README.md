@@ -3,14 +3,13 @@ Overview
 
 This project is an interactive Amazon Performance Dashboard built using Power BI to analyze and visualize sales and business performance. 
 It provides insights into key metrics like total sales, profit, orders, and customer trends.
-
-**Features**
+Features
 1.Sales, Profit and Order Analysis
 2.Category and Product Performance
 3.Customer and Region-wise Insights
 4.Monthly and Yearly Trends
 5.Interactive Filters and Slicers
-**Tools Used**
+Tools Used
 1.Power BI
 2.Power Query
 3.Objective
