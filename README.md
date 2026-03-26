@@ -100,4 +100,3 @@ This dashboard helps in understanding Amazon sales performance and supports bett
 ---
 <img width="1323" height="742" alt="Amazon Dashboard" src="https://github.com/user-attachments/assets/0207d35c-6812-40ac-b2de-67c9301e7bc8" />
 
-<img width="1323" height="742" alt="Amazon Dashboard" src="https://github.com/user-attachments/assets/4a055a9e-9c1e-4cde-a862-f4fa71b6825e" />
